@@ -9,3 +9,10 @@
 
 ## Adding an image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## Adding a code example
+```
+$ conda activate <name of the environment>
+Miniconda command to activate the specified environment.
+```
+
