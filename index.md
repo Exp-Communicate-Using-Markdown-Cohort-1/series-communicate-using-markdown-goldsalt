@@ -16,3 +16,7 @@ $ conda activate <name of the environment>
 Miniconda command to activate the specified environment.
 ```
 
+## Adding a task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
